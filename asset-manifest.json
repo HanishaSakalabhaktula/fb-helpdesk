@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HanishaSakalabhaktula/fb-helpdesk/static/css/main.de54b769.css",
+    "main.js": "/HanishaSakalabhaktula/fb-helpdesk/static/js/main.8418900e.js",
+    "static/media/p2.jpg": "/HanishaSakalabhaktula/fb-helpdesk/static/media/p2.36bdff48eea22681b19f.jpg",
+    "static/media/p1.jpg": "/HanishaSakalabhaktula/fb-helpdesk/static/media/p1.3609809a80667e12a52d.jpg",
+    "index.html": "/HanishaSakalabhaktula/fb-helpdesk/index.html",
+    "main.de54b769.css.map": "/HanishaSakalabhaktula/fb-helpdesk/static/css/main.de54b769.css.map",
+    "main.8418900e.js.map": "/HanishaSakalabhaktula/fb-helpdesk/static/js/main.8418900e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de54b769.css",
+    "static/js/main.8418900e.js"
+  ]
+}
